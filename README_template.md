@@ -1,6 +1,6 @@
 # {Project Name}
 
-Enter the name of your project above and provide a brief description of your project.
+Enter the name of your project above and provide a brief description of your project including what is the impact for the ecosystem or society.
 
 ## Team Information
 
@@ -9,6 +9,7 @@ Enter the name of your project above and provide a brief description of your pro
 - Name: {Full Name}
   - Discord Username: {username}
   - Devfolio Username: {username}
+  - Github Username: {username}
   - Role: {Role}
 
 ## Technical Approach
@@ -48,8 +49,8 @@ What is the plan for this project from now on? Do you plan to continue to work o
 
 ## Project Links (For Submission)
 
-Please provide links to any relevant documentation, code, or other resources that you've used in your project.
+Please provide links for the project repo and to any relevant documentation, code, or other resources that you've used in your project.
 
 ## Video Demo (For Submission)
 
-Please provide a link to a video demo of your project. The demo should be no longer than 5 minutes and should include a brief intro to your team and your project.
+Please provide a link to a video demo of your project. The demo should be no longer than 5 minutes.
